@@ -34,7 +34,7 @@ def private_panel(_):
         ],
         [
             InlineKeyboardButton(
-                text="ᴄʀᴇᴀᴛᴏʀ",
+                text="Cʀᴇᴀᴛᴏʀ",
                 url=f"https://t.me/TheChampu",
             )
         ]
